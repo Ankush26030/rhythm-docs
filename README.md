@@ -1,2 +1,2 @@
-# Rhythm-Bot-Privacy-Policy and Tos
+# Lyra-Bot-Privacy-Policy and Tos
 # Made by Ankush
