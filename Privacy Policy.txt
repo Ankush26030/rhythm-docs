@@ -1,4 +1,4 @@
-By using Rhythm, you accept its privacy policy. In this policy we have clearly mentioned all information about bot and we have written why we take your data, why we store them and many more.
+By using Lyra, you accept its privacy policy. In this policy we have clearly mentioned all information about bot and we have written why we take your data, why we store them and many more.
 
 1. Why do we store data?
 
@@ -27,5 +27,5 @@ Yes, we can change our privacy policy anytime for information about any change i
 
 
 
-Privacy Policy Of Rhythm
-Made By Ankush
+Privacy Policy Of Lyra
+Made by Ankush
